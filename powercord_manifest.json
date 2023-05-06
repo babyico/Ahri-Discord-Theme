@@ -1,0 +1,9 @@
+{
+  "name": "Ahri-Chan",
+  "description": "Ahri Discord theme dedicated for my special person. (Works with Dark-Mode Discord)",
+  "version": "1.0.0",
+  "author": "Iconical#6558",
+  "license": "MIT",
+  "theme": "Ahri-Chan.theme.css",
+  "consent": "false"
+}
