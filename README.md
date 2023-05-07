@@ -25,5 +25,5 @@ Looking to contribute to Ahri Theme? Read the the <a href="https://github.com/ba
 
 <h2> License </h2>
 <p>
-See the a href="https://github.com/babyico/Ahri-Discord-Theme/blob/master/LICENSE.md">LICENSE</a> file for license rights and limitations (MIT).
+See the <a href="https://github.com/babyico/Ahri-Discord-Theme/blob/master/LICENSE.md">LICENSE</a> file for license rights and limitations (MIT).
 </p>
