@@ -17,7 +17,7 @@
 
 <h1> Ahri Theme for BetterDiscord, Powercord, and more...</h1>
 <p>
-Ahri Discord theme dedicated for my special person. (Works with Dark-Mode Discord) 
+Ahri Discord theme (Works with Dark-Mode Discord) 
 This theme is for BetterDiscord, Powercord and any mod that supports theme.css.
 </p>
 
